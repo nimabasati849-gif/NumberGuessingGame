@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+import random
+number=random.randint(1,100)
+guess=int(input("Enter The Number:"))
+print(number)
+print(guess)
